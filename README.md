@@ -1,3 +1,6 @@
+#### CARA PEMBELIAN LISENSI
+Bisa langsung hubungi Whatsapp : 08979674638
+
 #### PETUNJUK PENGINSTALAN:
  ```
  $ pkg update && pkg upgrade
